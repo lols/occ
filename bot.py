@@ -26,7 +26,7 @@ logging.basicConfig(
 
 ocpus = 4
 memory_in_gbs = 24
-wait_s_for_retry = 30
+wait_s_for_retry = 32
 
 logging.info("#####################################################")
 logging.info("Script to spawn VM.Standard.A1.Flex instance")
